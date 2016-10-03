@@ -1,0 +1,32 @@
+
+
+
+#stock_scan_panel{
+
+background:#b973ff;
+height:450px;
+width:765px;
+z-index:2000;
+	
+}
+
+
+#cancel_btn{
+	
+	position:absolute;
+	margin-top:-200px;
+	margin-left:350px;
+	font-size:20;
+}
+
+#input_box{
+	
+	position:absolute;
+	margin-top:100px;
+	margin-left:270px;
+	font-size:20;
+	z-index:2001;
+}
+
+
+

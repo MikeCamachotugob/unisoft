@@ -1,0 +1,38 @@
+
+
+
+.home_window{
+	
+	background:#fdfdff;
+	border:1px solid grey;
+	height:240px;
+	width:360px;
+	position:absolute;
+}
+
+
+#notification{
+	height:498px;
+	margin-left:10px;
+	margin-top:10px;
+	border:none;
+}
+
+
+#line_graph_sales{
+	
+	margin-left:390px;
+	margin-top:10px;
+}
+
+
+
+
+#bar_graph_stock{
+	
+	margin-left:390px;
+	margin-top:260px;
+	
+}
+
+

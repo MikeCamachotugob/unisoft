@@ -1,0 +1,101 @@
+
+
+#prod_list {
+	margin-top:120px;
+     width:765px;
+}
+
+
+#prod_list thead {
+	display: inline-block;
+    width:765px;
+    height: 20px;
+	
+}
+
+#prod_list tbody {
+	margin-top:6px;
+	display: inline-block;
+    width:765px;
+    height: 360px;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+
+
+#prod_list thead, tbody { display: block; }
+
+
+#opt_btn_view{
+	float:right;
+	padding:0px;
+	margin-top:10px;
+	margin-bottom:5px;
+	margin-right:10px;
+}
+#opt_btn_edit{
+
+	float:right;
+	padding:0px;
+	margin-top:10px;
+	margin-bottom:5px;
+	margin-right:10px;
+}
+#opt_btn_delete{
+
+	float:right;
+	padding:0px;
+	margin-top:25px;
+	margin-bottom:5px;
+	margin-right:10px;
+}
+
+
+#sub_navigation{
+	margin-top:-50px;
+	position:absolute;
+	width: 750px;
+	height:50px;
+
+}
+
+#search_btn{
+	
+	border-radius: 6px;
+	padding:5px;
+	text-align:center;	
+	background:  #ccc;
+	font-weight:bold;
+}
+#search_btn:hover{
+	cursor: pointer;
+	background:#777777;
+	color:white;
+}
+
+
+
+#sub_navigation a{
+	border: outset #dddddd;
+	text-decoration:none;
+	background: #ccc;
+	display:block;
+	width:100px;
+	float:left;
+	border-radius: 6px;
+	text-align:center;
+	margin: -45 5 0 5;
+	float:right;
+	padding:5px;
+	font-weight:bold;
+	color:black;
+}
+#sub_navigation a:hover{
+	background:#777777;
+	cursor: pointer;
+	color:white;
+}
+
+
+
+

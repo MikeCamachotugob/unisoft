@@ -1,0 +1,101 @@
+
+
+
+
+#stock_list {
+	border:none;
+}
+
+#stock_list {
+     width:765px;
+}
+#stock_list thead {
+   display: inline-block;
+       width:765px;
+    height: 20px;
+	
+}
+#stock_list tbody {
+	margin-top:6px;
+	display: inline-block;
+    width:765px;
+    height: 150px;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+#stock_list thead, tbody { display: block; }
+
+
+
+
+
+
+
+
+
+#in_out_list {
+	border:none;
+     width:765px;
+	margin-top:5px;
+}
+#in_out_list thead {
+   display: inline-block;
+       width:765px;
+    height: 20px;
+	
+}
+#in_out_list tbody {
+	margin-top:6px;
+	display: inline-block;
+    width:765px;
+    height: 160px;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+#in_out_list thead, tbody { display: block; }
+
+
+
+
+
+#curr_stock_sub b{
+	position:absolute;
+	margin-top:10px;
+	
+}
+
+#curr_stock_sub{
+	width: 770px;
+	height:30px;
+	border-bottom:2px solid grey;
+	padding-top:2px;
+	margin-top:30px;
+}
+
+
+
+
+#inv_btn{
+	
+	color:black;
+	margin-right:30px;
+	text-decoration:none;
+	background: #ccc;
+	display:block;
+	width:100px;
+	float:left;
+	border-radius: 6px;
+	text-align:center;
+	float:right;
+	padding:1px;
+	border-style: outset;
+	border-color:#dddddd;
+	font-weight:bold;
+
+}
+#inv_btn:hover{
+	background:#777777;
+	cursor: pointer;
+	color:white;
+}
+

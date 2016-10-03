@@ -1,0 +1,66 @@
+
+
+
+#main_content{
+	
+	border:1px solid grey;
+	border-top:0;
+	background:white;
+	height:520px;
+	width:780px;
+	margin-left:5px;
+	margin-top:130px;
+	position:absolute;
+	
+}
+
+
+#navigation{
+	
+	position:absolute;
+	height:50px;
+	width:995px;
+	margin-left:5px;
+	margin-top:80px;
+}
+
+#navigation ul , a{
+	
+	text-decoration: none;
+	list-style:none;
+	
+}
+
+#navigation ul li a{
+	
+	width:100px;
+	height:27px;
+	float:right;
+	margin:5px;
+	margin-right:2px;
+	background:#8000ff;
+	color:white;
+	text-align:center;
+	border-top-right-radius:5px;
+	border-top-left-radius:5px;
+	
+}
+
+#navigation ul li a:hover {
+	
+	background:#000000;
+	
+}
+
+#profile_panel{
+	background:white;
+	width:205px;
+	height:520px;
+	position:absolute;
+	margin-left:790px;
+	margin-top:127px;
+	z-index:2200;
+	border:2px solid;
+	border-color: #999999 white white #777777;	
+	
+}

@@ -1,0 +1,28 @@
+
+#profile_image{
+	
+	border:1px solid grey;
+	height:100px;
+	width:100px;
+	margin-left:50px;
+}
+
+#profile_info{
+	height:70px;
+	width:200px;	
+	margin-left:2px;
+}
+
+#log_history{
+	border:1px solid grey;
+	height:260px;
+	width:200px;
+	margin-left:2px;
+	overflow:scroll;
+	overflow-x:hidden;
+	color:black;
+}
+center{
+	margin:0px;
+	padding:0px;
+}

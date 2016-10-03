@@ -1,0 +1,38 @@
+#wrapper{
+	
+	height:660px;
+	width:1005px;
+	background:#bf00ff;
+	
+}
+
+#login_ui{
+	
+	height:300px;
+	width:900px;
+	border-radius:20px;
+	position:absolute;
+	margin-top:140px;
+	margin-left:50px;
+	background:#b300b3;
+}
+
+#login_form {
+	
+	background:#dfdfd0;
+	height:160px;
+	width:160px;
+	position:absolute;
+	margin-top:30px;
+	margin-left:600px;
+	padding:2em;
+	border-radius:10px;
+	
+} 
+#forgot_pass{
+	
+	position:absolute;
+	margin-top:190px;
+	margin-left:700px;
+	
+}
